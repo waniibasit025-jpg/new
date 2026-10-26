@@ -1,0 +1,6 @@
+{
+  "name": "PhoneTrace – Phone Number Location Finder",
+  "description": "Phone number intelligence, country & carrier lookup, registered telecom region mapping, and secure consent-based live location sharing.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
